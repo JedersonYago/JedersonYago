@@ -13,4 +13,4 @@
 
 💻 Desenvolvedor apaixonado por tecnologia, com 2 anos de experiência em programação, sempre buscando aprender, evoluir e transformar ideias em soluções.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
